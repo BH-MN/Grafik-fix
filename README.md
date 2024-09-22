@@ -1,6 +1,6 @@
 # Grafik-fix
 A Program to fix Grafik bugs
-![Uploading images.jpg…]()
+![images](https://github.com/user-attachments/assets/ee7d9962-c4b0-470b-9f32-8d18db88ba59)
 
 1. Download the fix.exe
 
