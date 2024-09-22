@@ -2,7 +2,9 @@
 A Program to fix Grafik bugs
 
 
-![images](https://github.com/user-attachments/assets/ee7d9962-c4b0-470b-9f32-8d18db88ba59)
+![Unbenandnt](https://github.com/user-attachments/assets/786b442b-7ce7-4ba2-8510-dab771fb5ef4)
+
+
 
 1. Download the fix.exe
 
